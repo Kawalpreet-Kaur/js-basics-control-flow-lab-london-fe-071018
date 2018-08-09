@@ -15,3 +15,7 @@ function scuberGreetingForFeet(ride)
     return('No can do.');
   }
 }
+
+function ternaryCheckCity(){
+  
+}
