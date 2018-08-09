@@ -6,7 +6,7 @@ function scuberGreetingForFeet(ride)
   {
     console.log('This one is on me!');
   }
-  else if (ride)
+  else if (ride>2000)
   {
     console.log('I will gladly take your thirty bucks.');
   }
