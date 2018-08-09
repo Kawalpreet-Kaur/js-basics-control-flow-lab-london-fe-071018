@@ -8,6 +8,6 @@ function scuberGreetingForFeet(ride)
   }
   else if (ride)
   {
-    
+    console.log('I will gladly take your thirty bucks.');
   }
 }
