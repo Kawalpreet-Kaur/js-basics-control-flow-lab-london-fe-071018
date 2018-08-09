@@ -16,6 +16,6 @@ function scuberGreetingForFeet(ride)
   }
 }
 
-function ternaryCheckCity(){
-  
+function ternaryCheckCity(city){
+  return city==='NYC'? 
 }
